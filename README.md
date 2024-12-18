@@ -8,10 +8,9 @@ This project includes several types of charts, graphs and one interactive dashbo
 1. MS Excel
 2. Google Looker Studio
 
-
-
-
-
+Interactive dashboard Link:
+[https://lookerstudio.google.com/reporting/31cb7832-556d-42ab-985b-6826b63eb779
+](url)
 
 KEY SKILLS:
 -> Excel Keyboard Shortcuts
