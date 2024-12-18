@@ -9,8 +9,7 @@ This project includes several types of charts, graphs and one interactive dashbo
 2. Google Looker Studio
 
 Interactive dashboard Link:
-[https://lookerstudio.google.com/reporting/31cb7832-556d-42ab-985b-6826b63eb779
-](url)
+<a href="https://lookerstudio.google.com/reporting/31cb7832-556d-42ab-985b-6826b63eb779"> Link</a>
 
 KEY SKILLS:
 -> Excel Keyboard Shortcuts
