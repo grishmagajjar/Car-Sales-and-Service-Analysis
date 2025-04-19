@@ -2,8 +2,8 @@
 The objective of this project was to analyze car sales and service data to uncover actionable insights. The goal was to create an interactive dashboard that effectively visualizes key performance metrics to support business decision-making.
 
 ## Situation:
-I have been hired by SwiftAuto Traders, a chain of car dealerships, as a data analyst. my task is to analyze car sales and profits for each dealer. 
-I need to create some visualizations and present them as a dashboard/report to my regional manager for better understanding on car sales and profits for each dealer.
+- I have been hired by SwiftAuto Traders (imaginary company), a chain of car dealerships, as a data analyst. 
+- I need to create some visualizations and present them as a dashboard/report to my regional manager for better understanding on car sales and profits for each dealer.
 
 ## Task:
 I was tasked with:
