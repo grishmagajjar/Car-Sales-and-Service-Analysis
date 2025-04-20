@@ -38,5 +38,6 @@ Interactive dashboard Link:
 <a target="_blank" href="https://lookerstudio.google.com/reporting/31cb7832-556d-42ab-985b-6826b63eb779">Click Here</a>
 
 KEY SKILLS:
--> Excel PivotChart Feature
--> Google Looker Studio
+- Data Preparation
+- Excel PivotChart Feature
+- Google Looker Studio
