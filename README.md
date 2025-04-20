@@ -31,7 +31,7 @@ Helped stakeholders easily identify trends, such as best-performing car models a
 Enabled data-driven decision-making, improving the company’s overall efficiency and strategy.
 
 ## Tools Used:
-MS Excel: Data cleaning, preparation, and calculations.
+MS Excel: Data cleaning, preparation, and calculations. <br>
 Google Looker Studio: Designing and creating the interactive dashboard.
 
 Interactive dashboard Link:
