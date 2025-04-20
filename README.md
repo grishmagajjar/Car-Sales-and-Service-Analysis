@@ -14,8 +14,8 @@ I was tasked with:
 
 ## Action:
 ### Data Preparation:
-- Used MS Excel to clean, organize, and preprocess the raw data, ensuring accuracy and consistency.
-- Created pivot tables and calculated key metrics, such as total profit, quantity sold, and average sales per model.
+- Used MS Excel to clean, organize, and preprocess the raw data, ensuring accuracy and consistency. (excel-report.xlsx)
+- Created pivot tables and calculated key metrics, such as total profit, quantity sold, and average sales per model. (Dashboard -> Car_sales_and_service.pdf)
 
 ### Data Visualization:
 - Utilized Google Looker Studio to design a comprehensive dashboard with interactive elements.
